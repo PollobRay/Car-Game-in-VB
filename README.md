@@ -1,6 +1,7 @@
 # Car-Game-in-VB
 Simple Car Game in Visual Basic 6.0
 
+Game is start with space key press in keyboard.
 Car is moved using left and right arrow key also using mouse cursor.
 Game is over when the collides with another car.
 
